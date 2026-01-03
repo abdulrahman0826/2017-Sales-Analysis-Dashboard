@@ -22,3 +22,7 @@ Power BI Desktop: For report authoring and data visualization.
 Power Query (M): For ETL (Extract, Transform, Load) processes.
 DAX: For advanced analytical calculations.
 Dataset: 2017 Sales, Product, and Customer records.
+
+**OUTPUT**
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b2f81714-4ed1-4f6a-b033-4f04685f1da7" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/0cd9f276-8f58-4146-92cd-c390cda66d22" />
